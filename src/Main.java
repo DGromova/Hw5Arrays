@@ -60,6 +60,5 @@ public class Main {
         } else {
             System.out.print(arr[2]);
         }
-        System.out.println();
     }
 }
